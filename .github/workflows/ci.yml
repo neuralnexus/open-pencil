@@ -43,4 +43,4 @@ jobs:
           BUN_HEAVY_TESTS: '1'
 
       - name: Copy-paste detection
-        run: bun run test:dupes\n
+        run: bun run test:dupes
